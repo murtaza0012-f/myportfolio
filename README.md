@@ -2,7 +2,7 @@
 
 A professional portfolio website built to showcase my projects and technical skills as a Full-Stack Developer.
 
-**[Link to Live Demo]**
+🔗 **Live Demo: **https://myportfolio-murtaza3.vercel.app/**
 
 
 ## 🚀 Technologies
